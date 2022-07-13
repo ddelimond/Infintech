@@ -1,1 +1,1 @@
-# Infinitech
+# Infintech
