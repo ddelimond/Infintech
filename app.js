@@ -3,6 +3,8 @@
 
 let navbar = document.getElementById("Nav");
 let scrolled = false;
+// if a user scrolls more than 100px the top class is removed from the navbar
+// when the nave bar has not been scrolled it will be off the viewport but once the user scrolls it will be placed at the top of the page 
 
 window.onscroll = function () {
     if (window.pageYOffset > 100) {
