@@ -5,8 +5,8 @@
 
 
 <h1>Features</h1>
-This site is  a mock-up for the tech company InfinTech , the site showcases jQuery slideshows, javascript smooth scrolling
+This site is  a mock-up for the tech company InfinTech, the site showcases jQuery slideshows, JavaScript smooth scrolling
 HTML and CSS.
 
 About
-This application was made to create a professional site for a former client, i also reinforced my commenting/making my code more readable.
+This application was made to create a professional site for a former client; I have changed elements of the branding, assets, and look to maintain the client's anonymity.
